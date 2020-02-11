@@ -15,11 +15,4 @@ a:hover { color: red; }
 #main { max-width: 500px; margin: 0 auto; margin-top: 50px; word-wrap: break-word; line-height: 25px; color: #2b2b2b; }
 #main h2 { }
 #main p { }
-
-#footer { display: none; }
-
-#socialmedia { overflow: hidden; }
-#socialmedia div { display: block; margin-top: 10px; }
-#socialmedia .google { }
-#socialmedia .twitter { }
-#socialmedia .facebook { }
+#main .italic { font-style: italic; }
